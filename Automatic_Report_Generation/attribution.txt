@@ -1,1 +1,2 @@
 The create_graphs code was writted by Vishal Reddy - raju0013@umn.edu
+I did not write the code that sends the email, just the code that prompts the user for input
