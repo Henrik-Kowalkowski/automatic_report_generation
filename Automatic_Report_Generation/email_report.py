@@ -54,7 +54,7 @@ def send_email(week_num, report_name):
     s.starttls()
     
     # Your login information
-    s.login('trendspptx','MSBA2019h!5')
+    s.login('trendspptx','M******5')
     
     # Email information (from address, [recipient email addresses])
     s.sendmail('trendspptx@gmail.com',group, msg.as_string())
