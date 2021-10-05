@@ -1,4 +1,2 @@
-# my-personal-repository
-A repository for my personally originated code
- - Henrik Francis Kowalkowski 6/6/2018
- - Minneapolis, MN
+# Automatic Report Generation
+A simple set of functions to produce a templated report.
